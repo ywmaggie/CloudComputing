@@ -1,4 +1,4 @@
-# CloudComputing
+# Cloud Computing 
 All projects in course Cloud Computing (15619) in CMU
 
 The projects are on Amazon Web Service and Microsoft Azure, including:
